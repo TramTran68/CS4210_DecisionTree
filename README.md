@@ -5,7 +5,7 @@
 ---
 
 ## **Installation**
-Ensure Python is installed on your system. Then, install the required libraries using: **pip install scikit-learn matplotlib**
+- Ensure Python is installed on your system. Then, install the required libraries using: **pip install scikit-learn matplotlib**
 ---
 
 ## **Usage**
